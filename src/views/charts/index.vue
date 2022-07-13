@@ -7,7 +7,7 @@
 
 <script setup lang="ts">
 import {onMounted} from "vue";
-import EHeader from './modules/eHeader.vue'
+import EHeader from './modules/EHeader.vue'
 import EMain from './modules/EMain.vue'
 
 onMounted(() => {
